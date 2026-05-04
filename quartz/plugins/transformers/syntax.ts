@@ -1,3 +1,4 @@
+import clinicalGrammar from "../../static/grammars/clinical.tmLanguage.json"
 import { QuartzTransformerPlugin } from "../types"
 import rehypePrettyCode, { Options as CodeOptions, Theme as CodeTheme } from "rehype-pretty-code"
 
@@ -25,7 +26,7 @@ export const SyntaxHighlighting: QuartzTransformerPlugin<Partial<Options>> = (us
   return {
     name: "SyntaxHighlighting",
     htmlPlugins() {
-      return [[rehypePrettyCode, opts]]
+      return [[rehypePrettyCode, opts, clinicalGrammar]]
     },
   }
 }

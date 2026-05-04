@@ -1,0 +1,51 @@
+{
+  "name": "Clinical Form Syntax",
+  "scopeName": "source.clinical",
+  "fileTypes": [
+    "clinic",
+    "tmd"
+  ],
+  "patterns": [
+    {
+      "include": "#main"
+    }
+  ],
+  "repository": {
+    "main": {
+      "patterns": [
+        {
+          "match": "\\b(section|header)\\b",
+          "name": "keyword.control.clinical"
+        },
+        {
+          "match": "\\b(grid|button|checkbox|neg_pos|number)\\b",
+          "name": "keyword.other.widget.clinical"
+        },
+        {
+          "match": "\\b(text|paragraph)\\b",
+          "name": "entity.name.tag.clinical"
+        },
+        {
+          "begin": "\\[",
+          "beginCaptures": {
+            "0": {
+              "name": "punctuation.section.bracket.begin.clinical"
+            }
+          },
+          "end": "\\]",
+          "endCaptures": {
+            "0": {
+              "name": "punctuation.section.bracket.end.clinical"
+            }
+          },
+          "patterns": [
+            {
+              "match": "[^\\]]+",
+              "name": "string.unquoted.clinical"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
