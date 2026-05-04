@@ -1,0 +1,4 @@
+- The holy grail article from 2014 looking at [Diagnostic Criteria for TMD along with taxonomic classification](https://myuch.sharepoint.com/:b:/s/OPRehab-UCHealth/IQBAoOfsMn9CQ48wocTpArOPAcNHkPVTd9S3V1qpGgTcNHk?e=ixRyi2)
+	- [This seems to be an executive summary](https://myuch.sharepoint.com/:b:/s/OPRehab-UCHealth/IQB78e6rZFuoRY67NtCKbaScAWwSkJBUpXTj8hTPwx183YM?e=wRhfPK) for the above article, published two years later.
+- [This article](https://myuch.sharepoint.com/:b:/s/OPRehab-UCHealth/IQBuL47Y2pndQ7s1BZV-jV7uAQshgBtXkv0vR4hscjhaIzA?e=T4heTA)from JOSPT slightly pre-dating the above study, but heavily leaning on publications from the same authors that eventually found their way into the full diagnostic criteria article.
+- 
