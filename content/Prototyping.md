@@ -1,7 +1,7 @@
 [Prototyping Site](https://camerondpt.github.io/Form-Prototyper/)
 
 Example text:
-```c
+```clinical
 section[Subjective: Baseline & History]
 header[Primary Symptoms & Irritability]
 text[Primary Complaint] button[Jaw pain/Facial pain/Neck pain/Headache/Earache/Tinnitus/Dizziness/Locking/Chewing difficulty]
