@@ -1,6 +1,5 @@
-yaml
 ---
-title: Official Site Name
+title: TMJ Planning and Organization
 ---
 # TMJ Planning
 - [[Research and Guidelines]]
