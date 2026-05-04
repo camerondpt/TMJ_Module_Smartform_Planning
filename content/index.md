@@ -1,7 +1,8 @@
 ---
 title: TMJ Planning and Organization
+author: Cameron Stahl
 ---
-# TMJ Planning
+# Contents
 - [[Research and Guidelines]]
 - [[Examples from other organizations]]
 - [[Prototyping]]
