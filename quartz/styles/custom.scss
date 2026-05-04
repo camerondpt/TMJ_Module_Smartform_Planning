@@ -1,6 +1,7 @@
 @use "./base.scss";
 
 // put your custom CSS here!
-.external-link {
-  color: #5953D7;
+a.external {
+    color: #d75353;
+    text-decoration: underline  
 }
