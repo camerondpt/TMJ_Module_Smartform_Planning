@@ -22,7 +22,7 @@ text[Easing Factors] button[Heat/Ice/Manual pressure/Medication/Mouthguard/NSAID
 text[Parafunctional Habits] button[Biting (nails, cheeks)/Bruxism/Chewing gum/Clenching]
 
 header[Yellow Flag Screening]
-button[PHQ-2/PHQ-9/OSPRO-YF/CSI/TSK]
+button[PHQ-2\/9/OSPRO-YF/CSI/TSK]
 
 section[Objective: TMJ Range of Motion and Palpation]
 
