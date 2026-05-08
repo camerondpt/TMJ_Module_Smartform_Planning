@@ -24,6 +24,7 @@ text[Parafunctional Habits] button[Biting (nails, cheeks)/Bruxism/Chewing gum/Cl
 header[Yellow Flag Screening]
 button[PHQ-2\/9/OSPRO-YF/CSI/TSK]
 
+
 section[Objective: TMJ Range of Motion and Palpation]
 
 header[Resting Observation]
