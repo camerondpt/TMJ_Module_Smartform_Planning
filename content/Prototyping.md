@@ -1,7 +1,3 @@
-[Prototyping Site](https://camerondpt.github.io/Form-Prototyper/)
-
-Example text:
-```clinical
 section[Subjective: Baseline & History]
  
 header[Primary Symptoms & Irritability]
@@ -20,13 +16,13 @@ header[Habits]
 text[Aggravating Factors] button[Brushing teeth/Chewing hard food/Chewing soft food/Computer work/Prolonged sitting/Singing/Talking/Yawning]
 text[Easing Factors] button[Heat/Ice/Manual pressure/Medication/Mouthguard/NSAIDs/Rest/Soft diet/Splint]
 text[Parafunctional Habits] button[Biting (nails, cheeks)/Bruxism/Chewing gum/Clenching]
-
-header[Yellow Flag Screening]
-button[PHQ-2\/9/OSPRO-YF/CSI/TSK]
-
-
+ 
+header[Yellow Flags Present]
+button[Anxiety/Depression/High Threat Appraisal/Movement\/Protective Guarding/Multi-system Sensitivity]
+ 
+ 
 section[Objective: TMJ Range of Motion and Palpation]
-
+ 
 header[Resting Observation]
 text[Facial Symmetry / Rest] button[Symmetrical] button[Asymmetrical] grid[3-5] text[Comment:] textbox[]
  
@@ -69,14 +65,14 @@ text[]
 text[]
 text[Anterior Glide Left] grid[2] button[Normal/Hypomobile/Hypermobile] neg_pos[Pain] neg_pos[Click] neg_pos[Crepitus]
 text[Anterior Glide Right] grid[2] button[Normal/Hypomobile/Hypermobile] neg_pos[Pain] neg_pos[Click] neg_pos[Crepitus
-
+ 
  
 section[Objective: Cervical Spine]
-
+ 
 header[Posture]
 text[Seated Posture:] textbox[]
 text[Standing Posture:] textbox[]
-
+ 
 header[Active Range of Motion]
 text[Flexion:] grid[2] number[3] text[deg] grid[3-5] text[Comment:] textbox[]
 text[Extension:] grid[2] number[3] text[deg] grid[3-5] text[Comment:] textbox[]
@@ -84,7 +80,7 @@ text[Right Side-bending:] grid[2] number[3] text[deg] grid[3-5] text[Comment:] t
 text[Left Side-bending:] grid[2] number[3] text[deg] grid[3-5] text[Comment:] textbox[]
 text[Right Rotation:] grid[2] number[3] text[deg] grid[3-5] text[Comment:] textbox[]
 text[Left Rotation:] grid[2] number[3] text[deg] grid[3-5] text[Comment:] textbox[]
-
+ 
 header[Muscle Palpation]
 text[Paraspinals Left] grid[2] neg_pos[Local Pain] neg_pos[Referred Pain] neg_pos[Hypertonic] text[Notes:] textbox[25]
 text[Paraspinals Right] grid[2] neg_pos[Local Pain] neg_pos[Referred Pain] neg_pos[Hypertonic] text[Notes:] textbox[25]
@@ -104,4 +100,3 @@ text[]
 text[]
 text[Submandibular muscles Left] grid[2] neg_pos[Local Pain] neg_pos[Referred Pain] neg_pos[Hypertonic] text[Notes:] textbox[25]
 text[Submandibular muscles Right] grid[2] neg_pos[Local Pain] neg_pos[Referred Pain] neg_pos[Hypertonic] text[Notes:] textbox[25]
-```
