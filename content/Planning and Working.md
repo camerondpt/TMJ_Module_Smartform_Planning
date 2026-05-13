@@ -5,7 +5,9 @@ Generally we're going to go through Subjective > Objective > Assessment. We'll a
 
 ![[timeline.png|697]]
 
+## Prototype
 The [[Prototyping]] page has the working examples that you can use to look at current state.  Use this as a reference for suggesting additions/changes/deletions. As items are voted on and approved, I will update the example to reflect the most up to date information.
 
+## Working Spreadsheet
 The spreadsheet we'll be working off of is [here](https://myuch.sharepoint.com/:x:/s/OPRehab-UCHealth/IQAXdZOXWchRRKYcVYWKYtyGAeDDsbYR6pVLfD2JDK7jc4E?e=6LYLB8). Please add requests for changes, additions, and deletions to the appropriate sheet (Subjective, Objective, Assessment). When line items are added, everyone should take the time to read the request and vote on the request, either "A" for agree or "D" for disagree.   You can right click the cell to add a "Note" or "Comment" if you wish to add detail to your vote. There is also a "Discussion" column where you can add information if you see fit. Please also feel free to use the Jaw/TMD Workgroup chat to have more discussions about specific items or more general questions.
 
