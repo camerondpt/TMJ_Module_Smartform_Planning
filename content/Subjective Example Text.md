@@ -1,7 +1,7 @@
 
 You can copy this text (button at top right of code block) and paste it into the [Prototyping Site](https://camerondpt.github.io/Form-Prototyper/).
 
-``` Clinical
+``` clinical
 section[Subjective: Baseline & History]
  
 header[Primary Symptoms & Irritability]
