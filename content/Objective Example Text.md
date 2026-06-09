@@ -44,7 +44,7 @@ text[Distraction Right (Caudal Glide)] grid[2] button[Normal/Hypomobile/Hypermob
 text[]
 text[]
 text[Anterior Glide Left] grid[2] button[Normal/Hypomobile/Hypermobile] neg_pos[Pain] neg_pos[Click] neg_pos[Crepitus]
-text[Anterior Glide Right] grid[2] button[Normal/Hypomobile/Hypermobile] neg_pos[Pain] neg_pos[Click] neg_pos[Crepitus
+text[Anterior Glide Right] grid[2] button[Normal/Hypomobile/Hypermobile] neg_pos[Pain] neg_pos[Click] neg_pos[Crepitus]
  
  
 section[Objective: Cervical Spine]
