@@ -20,7 +20,7 @@ header[Mandibular Movement Pattern]
 text[Opening Pattern:] button[Straight/Deviation#deviate/Deflection#deflect]
 text[Deviation]#deviate button[C curve (toward left)/C curve (toward right)/S curve (starting toward left)/S curve (starting toward right)]#deviate
 text[Deflection]#deflect button[Left/Right]#deflect text[Severity]#deflect button[Mild/Moderate/Severe]#deflect
-text[Movement Quality:] button[Smooth/Jittery/Guarded]
+text[Movement Quality:] button[Smooth/Jittery/Guarded] text[Comment:] textbox[]
  
 header[Joint Palpation with Movement]
 text[Opening/Closing Left:] grid[2] neg_pos[Pain] neg_pos[Clicking] neg_pos[Crepitus] text[Notes:] textbox[25]
@@ -80,4 +80,5 @@ text[]
 text[]
 text[Submandibular muscles Left] grid[2] neg_pos[Local Pain] neg_pos[Referred Pain] neg_pos[Hypertonic] text[Notes:] textbox[25]
 text[Submandibular muscles Right] grid[2] neg_pos[Local Pain] neg_pos[Referred Pain] neg_pos[Hypertonic] text[Notes:] textbox[25]
+
 ```
